@@ -5,7 +5,7 @@
 ## Деплой
 
 - Frontend опубликован на GitHub Pages: [HelpDesk](https://sergetfep.github.io/helpdesk-frontend/)
-- Backend развёрнут на [Railway](https://railway.com/)
+- Backend развёрнут на [Railway](helpdesk-backend-production-9472.up.railway.app)
 
 ## Запуск
 
